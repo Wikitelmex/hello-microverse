@@ -24,23 +24,13 @@ git clone https://github.com/wikitelmex/hello-microverse
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- text editor
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/wikitelmex)
+- GitHub: [@Alex](https://github.com/wikitelmex)
 
 
 
@@ -49,7 +39,6 @@ git clone https://github.com/wikitelmex/hello-microverse
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
